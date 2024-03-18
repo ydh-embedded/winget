@@ -1,0 +1,2 @@
+#Requires -RunAsAdministrator
+Add-AppxProvisionedPackage -Online -PackagePath .\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle -LicensePath .\5d9d44b170c146e1a3085c2c75fcc2c1_License1.xml -Verbose
