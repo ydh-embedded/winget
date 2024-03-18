@@ -1,0 +1,1 @@
+Dieses Package hängt von anderen Paketen ab. Installiere vorher den Windows-Terminal, da dort die benötigten Packages bereits mit installiert werden.
