@@ -12,7 +12,7 @@
 
 	``
 	
-		%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe -NoExit -NoProfile -NoLogo -File "C:\Users\danny.heinicke\Documents\dev\settings\java-powershell-profile.ps1"`
+		%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe -NoExit -NoProfile -NoLogo -File "C:\Users\danny.heinicke\Documents\dev\settings\java-powershell-profile.ps1"
 	
 	``
 
